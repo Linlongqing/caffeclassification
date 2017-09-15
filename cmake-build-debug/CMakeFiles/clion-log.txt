@@ -1,0 +1,24 @@
+/home/lin/Downloads/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lin/CLionProjects/caffeclassification
+-- OpenCV library status:
+--     version: 2.4.9
+--     libraries: opencv_videostab;opencv_video;opencv_ts;opencv_superres;opencv_stitching;opencv_photo;opencv_ocl;opencv_objdetect;opencv_nonfree;opencv_ml;opencv_legacy;opencv_imgproc;opencv_highgui;opencv_gpu;opencv_flann;opencv_features2d;opencv_core;opencv_contrib;opencv_calib3d
+--     include path: /usr/local/include/opencv;/usr/local/include
+CMake Error at CMakeLists.txt:26 (find_package):
+  By not providing "Findlib_glog.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "lib_glog",
+  but CMake did not find one.
+
+  Could not find a package configuration file provided by "lib_glog" with any
+  of the following names:
+
+    lib_glogConfig.cmake
+    lib_glog-config.cmake
+
+  Add the installation prefix of "lib_glog" to CMAKE_PREFIX_PATH or set
+  "lib_glog_DIR" to a directory containing one of the above files.  If
+  "lib_glog" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/lin/CLionProjects/caffeclassification/cmake-build-debug/CMakeFiles/CMakeOutput.log".

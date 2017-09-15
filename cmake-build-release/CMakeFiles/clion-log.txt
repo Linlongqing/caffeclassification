@@ -1,0 +1,11 @@
+/home/lin/Downloads/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/lin/CLionProjects/caffeclassification
+-- OpenCV library status:
+--     version: 2.4.9
+--     libraries: opencv_videostab;opencv_video;opencv_ts;opencv_superres;opencv_stitching;opencv_photo;opencv_ocl;opencv_objdetect;opencv_nonfree;opencv_ml;opencv_legacy;opencv_imgproc;opencv_highgui;opencv_gpu;opencv_flann;opencv_features2d;opencv_core;opencv_contrib;opencv_calib3d
+--     include path: /usr/local/include/opencv;/usr/local/include
+-- Found glog    (include: /usr/include, library: /usr/lib/x86_64-linux-gnu/libglog.so)
+-- Found gflags  (include: /usr/include, library: /usr/lib/x86_64-linux-gnu/libgflags.so)
+-- Boost version: 1.54.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lin/CLionProjects/caffeclassification/cmake-build-release
